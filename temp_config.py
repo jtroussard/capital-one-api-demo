@@ -11,7 +11,6 @@
 #   Running these commands will automate the above instructions:
 #
 #   `mkdir config && cp temp_config.py config.py && mv config.py config/`
-#   `echo "/config" > .gitignore`
 #
 # Config Documentation:
 # 
