@@ -1,7 +1,7 @@
 # Configuration Data
 # Author: Jacques Troussard
 # Created: Wed Jan 24 2:12PM
-# Edited: Wed Jan 24 2:24PM
+# Edited: Wed Jan 24 3:10PM
 #
 # Instructions:
 #   1. Set each value approperiately
@@ -17,8 +17,6 @@
 # 
 #   Field            |  Value  |  Description
 #####################################################################
-# CUST_ID            | string  | Customer id supplied from cap one tut.
 # API_KEY            | string  | Your cap one api key.
 
-CUST_ID = ""
 API_KEY = ""
